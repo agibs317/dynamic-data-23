@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Lato&display=swap');
+
+.lato
+{font-family: 'Lato', sans-serif;}
+
+.delaGothicOne
+{font-family:'Dela Gothic One', sans-serif;}
+
+body{
+    background-color: #CCCCCC;
+}
+
+.white-bg{
+    background-color: white;
+}
+

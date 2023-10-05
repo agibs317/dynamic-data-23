@@ -12,6 +12,9 @@ app.engine('handlebars', expressHandlebars.engine({
 
 app.set('view engine', 'handlebars')
 
+//static files or folders are specified before any route
+app.use(express.static(__dirname + "/public"))
+
 const port = process.env.port || 3000;
 
 //Routes go before 404 and 500
@@ -22,15 +25,18 @@ app.get('/',(req,res)=>{
 });
 
 app.get('/about',(req,res)=>{
-    res.render('about');
+    res.render('about',{
+        title:"About Miami",
+        pageTitle:"About Miami Travel",
+        image: "miami2.jpg",
+        description:"Miami is a beautiful city"});
     
 
 });
 
 //generate error becuase paramenters do not match 
-app.get('/nightlife',(request,response)=>{
-    res.type('text/plain');
-    res.send('Miami at Night');
+app.get('/nightlife',(req,res)=>{
+    res.render('nightlife');
 
 });
 
