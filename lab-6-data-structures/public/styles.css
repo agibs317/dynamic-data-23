@@ -15,40 +15,40 @@
 }
 
 .primary-color{
-    color: #007F5C;
+    color: #FFF1E0;
 }
 
 .primary-color-light, nav .secondary-color-light:hover{
-    color: #57D9B5;
+    color: #FD8660;
 }
 
 .accordion-button:not(.collapsed){
-    color:#007F5C;
-    background-color: #FFC467;
+    color:#144733;
+    background-color: #FD8660;
 }
 
 .primary-color-bg{
-    background-color: #007F5C;
+    background-color: #FFF1E0;
 }
 
 .primary-color-light-bg{
-    background-color: #57D9B5;
+    background-color: #FD8660;
 }
 
 .secondary-color{
-    color: #FFA009;
+    color: #144733;
 }
 
 .secondary-color-light{
-    color: #FFC467;
+    color: #339C5E;
 }
 
 .secondary-color-bg{
-    background-color: #FFA009;
+    background-color: #144733;
 }
 
 .secondary-color-light-bg{
-    background-color: #FFC467;
+    background-color: #339C5E;
 }
 
 .owl-nav{
@@ -57,4 +57,14 @@
 
 .section-divider{
     padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio: 1/1;
+}
+
+footer{
+    padding: 3rem;
 }

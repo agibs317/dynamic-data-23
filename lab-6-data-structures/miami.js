@@ -5,7 +5,7 @@ const expressHandlebars = require('express-handlebars');
 
 const app = express();
 
-//configure our express app to use handleb(ars
+//configure our express app to use handlebars
 app.engine('handlebars', expressHandlebars.engine({
     defaultLayout: 'main',
 }));
@@ -17,29 +17,40 @@ app.use(express.static(__dirname + "/public"))
 
 const port = process.env.port || 3000;
 
+const gallery = require('./data/gallery.json')
 //Routes go before 404 and 500
 app.get('/',(req,res)=>{
     var data = require("./data/home-data.json");
-    res.render('page',{data});
+    res.render('page',{data, gallery});
 
 
 });
+app.get('/downtown',(req,res)=>{
+    var data = require("./data/downtown-data.json");
+    res.render('page',{data, gallery});
 
-app.get('/about',(req,res)=>{
-    res.render('about',{
-        title:"About Miami",
-        pageTitle:"About Miami Travel",
-        image: "miami2.jpg",
-        description:"Miami is a beautiful city"});
-    
+
+});
+app.get('/midtown',(req,res)=>{
+    var data = require("./data/midtown-data.json");
+    res.render('page',{data, gallery});
+
+
+});
+app.get('/buckhead',(req,res)=>{
+    var data = require("./data/buckhead-data.json");
+    res.render('page',{data, gallery});
+
+
+});
+app.get('/oldfourthward',(req,res)=>{
+    var data = require("./data/oldfourthward-data.json");
+    res.render('page',{data, gallery});
+
 
 });
 
 //generate error becuase paramenters do not match 
-app.get('/nightlife',(req,res)=>{
-    res.render('nightlife');
-
-});
 
 //Error handling -> app.use() basic express route
 app.use((req,res) =>{
