@@ -90,7 +90,7 @@ exports.addToCartProcess = (req,res) => {
 
     //after the cart has been populated create a new json object
     //containg all the product information with the items in the cart
-    var tempProducts = {cart}
+    var tempProducts = {cartProducts}
 
     res.render("cart",{"cartProducts":cart.products})
 

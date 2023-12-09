@@ -1,0 +1,11 @@
+<div class="section-divider" id="about"></div>
+<h1 class="primary-color-light playfair">{{data.store}}</h1>
+
+{{#if data.slideshow}}
+<div class="owl-slideshow owl-carousel owl-theme">
+    {{#each data.slideshow}}
+  <div class="item"> <img class= "img-fluid" src="{{this}}" alt=""> </div>
+  {{/each}}
+</div>
+{{/if}}
+<h5 class="playfair">{{data.about}}</h5>

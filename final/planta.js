@@ -27,8 +27,11 @@ const port = process.env.port || 3000;
 app.get('/',(req,res)=>{
     var data = require("./data/about-data.json");
     res.render('home',{data});
+});
 
-
+app.get('/about',(req,res)=>{
+    var data = require("./data/about-data.json");
+    res.render('about',{data});
 });
 
 app.get('/checkout', handler.checkout)
@@ -48,7 +51,8 @@ app.post('/cart', handler.addToCartProcess)
 app.get('/cart/delete/:email',handler.userDelete)
 
 app.get('/thankyou',(req,res) =>{
-    res.render('thankyou')
+    var data = require("./data/about-data.json");
+    res.render('thankyou', {data})
 })
 //Error handling -> app.use() basic express route
 app.use((req,res) =>{
