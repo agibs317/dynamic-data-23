@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Lato&display=swap');
+
+.lato
+{font-family: 'Lato', sans-serif;}
+
+.delaGothicOne
+{font-family:'Dela Gothic One', sans-serif;}
+
+/*body{
+    background-color: #cccccc;
+}*/
+
+.white-bg{
+    background-color: white;
+}
+
+.primary-color{
+    color: #FFF1E0;
+}
+
+.primary-color-light, nav .secondary-color-light:hover{
+    color: #FD8660;
+}
+
+.accordion-button:not(.collapsed){
+    color:#144733;
+    background-color: #FD8660;
+}
+
+.primary-color-bg{
+    background-color: #FFF1E0;
+}
+
+.primary-color-light-bg{
+    background-color: #FD8660;
+}
+
+.secondary-color{
+    color: #144733;
+}
+
+.secondary-color-light{
+    color: #339C5E;
+}
+
+.secondary-color-bg{
+    background-color: #144733;
+}
+
+.secondary-color-light-bg{
+    background-color: #339C5E;
+}
+
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio: 1/1;
+}
+
+footer{
+    padding: 3rem;
+}

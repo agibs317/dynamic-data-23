@@ -1,0 +1,57 @@
+{
+    "store":"Planta",
+    "about":"Welcome to our online indoor-plant store, where first-time plant owners discover a vibrant world of green companions for their homes. Explore our curated collection of beginner-friendly plants, each accompanied by helpful care guides, to bring the beauty of nature effortlessly into your living space.",
+    "thankyou":"Congrats Plant Parent your order is placed! Thank you for shopping with us :)",
+    "slideshow": [
+        "/img/slides/slide1.jpg",
+        "/img/slides/slide2.jpg",
+        "/img/slides/slide3.jpg"
+    ],
+    "category": [
+        {
+            "name":"foliage",
+            "image":"/img/hfol.jpg"
+        },
+        {
+            "name":"flowers",
+            "image":"/img/hflow.jpg"
+        },
+        {
+            "name":"succulents",
+            "image":"/img/hsucc.jpg"
+        }
+    ],
+    "featured":[
+        {
+            "title":"Wandering Jew Plant",
+            "image":"/img/foliage/jew2.jpg",
+            "id":11
+        },
+        {
+            "title":"Wax Begonia",
+            "image":"/img/flowers/wax2.jpg",
+            "id":21
+        },
+        {
+            "title":"Elephant Plant",
+            "image":"/img/succulents/elephant2.jpg",
+            "id":34
+        },
+        {
+            "title":"Calathea 'Peacock Plant'",
+            "image":"/img/foliage/calathea2.jpg",
+            "id":5
+        },
+        {
+            "title":"Amarylis",
+            "image":"/img/flowers/amarylis2.jpg",
+            "id":14
+        },
+        {
+            "title":"Hoya Heart",
+            "image":"/img/succulents/hoya2.jpg",
+            "id":32
+        }
+    ]
+
+}

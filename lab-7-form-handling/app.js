@@ -31,8 +31,12 @@ app.get('/madprocess', (req,res)=>{
 })
 
 app.get('/newsletter-signup', handler.newsletterSignup)
+app.post('/newsletter/list',  handler.newsletterSignupList)
+app.get('/newsletter/details/:email', handler.newsletterUser)
+app.delete('/newsletter/delete', handler.newsletterUserDelete)
 
 app.post('/newsletter-signup/process',  handler.newsletterSignupProcess)
+
 
 //Error handling -> app.use() basic express route
 app.use((req,res)=>{

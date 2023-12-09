@@ -1,0 +1,11 @@
+{
+    "store":"Planta",
+    "about":"Welcome to our online indoor plant store, where first-time plant owners discover a vibrant world of green companions for their homes. Explore our curated collection of beginner-friendly plants, each accompanied by helpful care guides, to bring the beauty of nature effortlessly into your living space",
+    "thankyou":"Congrats Plant Parent your order is placed! Thank you for shopping with us :)",
+    "slideshow": [
+        "/img/slides/cityday.jpg",
+        "/img/slides/atl.jpg",
+        "/img/slides/citynight.jpg"
+    ]
+
+}

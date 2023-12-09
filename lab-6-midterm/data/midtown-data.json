@@ -1,0 +1,74 @@
+{
+    "title": "Midtown",
+    "description":"Welcome to Midtown Atlanta, where the city's artistic spirit, cultural diversity, and urban sophistication come to life. This dynamic neighborhood, located just north of Downtown Atlanta, is a bustling hub of creativity and energy. Visitors can explore world-class museums like the High Museum of Art, enjoy live performances at the historic Fox Theatre, indulge in diverse culinary delights at trendy restaurants, and stroll through beautiful green spaces like Piedmont Park. With its eclectic mix of attractions, Midtown Atlanta offers tourists a vibrant and memorable experience in the heart of the city.",
+    "slideshow": [
+        "/img/slides/midtown1.jpg",
+        "/img/slides/midtown3.jpg",
+        "/img/slides/midtown2.jpg"
+    ],
+
+    "services":[
+        {
+        "title":"Transportation",
+        "intro": "Atlanta, the capital of Georgia, boasts a diverse transportation system, including MARTA, a rapid transit system, and a network of highways connecting the city's sprawling urban and suburban areas. ",
+        "lists":["Marta",
+                "Bird",
+                "Bus Tours"],
+        "image":"/img/marta.jpg"
+        },
+        {
+        "title":"Atlanta Tours",
+        "intro": "Discover the soul of Atlanta with our meticulously curated tours, showcasing the city's iconic attractions, diverse neighborhoods, and rich cultural heritage.",
+        "lists":["A day in North Atlanta",
+                "A day in Downtown",
+                "A day in Midtown"],
+        "image":"/img/acity.jpg",
+        "show":"show"
+        }
+    ],
+
+    "packages":[
+        {
+            "title":"Fox Theatre",
+            "image":"/img/fox.jpg",
+            "text":"Renowned for its opulent Moorish architecture and hosting a variety of performances, including Broadway shows, concerts, ballets, and operas. With its rich history, elegant design, and world-class productions, the Fox Theatre offers an immersive and unforgettable experience for theatergoers, making it a beloved destination for arts and entertainment in the heart of the city.",
+            "price":"1500",
+            "duration":"5 Hrs"
+        },
+        {
+            "title":"High Museum",
+            "image":"/img/high.jpg",
+            "text":"The High Museum of Art in Atlanta is a premier art museum renowned for its diverse collection of artworks, ranging from contemporary and modern pieces to classic European art. Located in the heart of Midtown, the museum offers visitors a chance to explore various artistic movements and cultures through its thought-provoking exhibitions and engaging programs.",
+            "price":"500",
+            "duration":"3 Hrs"
+        },
+        {
+            "title":"Atlantic Station",
+            "image":"/img/atlantic.jpg",
+            "text":"Atlantic Station features an array of shops, restaurants, and entertainment options, making it a popular shopping and dining destination. The district also hosts events, concerts, and outdoor festivals, creating a lively atmosphere for visitors. Additionally, Atlantic Station includes a movie theater, fitness centers, residential spaces, and green spaces, providing a well-rounded urban experience for both residents and tourists in Atlanta.",
+            "price":"3300",
+            "duration":"2 Hrs"
+        },
+        {
+            "title":"Atlanta Botanical Gardens",
+            "image":"/img/bontanical.jpg",
+            "text":"With its enchanting beauty, educational programs, and special events such as concerts and illuminated light shows, the Atlanta Botanical Garden provides a tranquil and immersive experience for nature enthusiasts and families, making it a must-visit destination in Atlanta.",
+            "price":"100",
+            "duration":"3 Hrs"
+        },
+        {
+            "title":"Piedmont Park",
+            "image":"/img/piedmontpark.jpg",
+            "text":"Boasting walking and biking trails, sports fields, picnic areas, and a tranquil lake, the park provides a perfect retreat for outdoor enthusiasts, families, and fitness enthusiasts. With its vibrant atmosphere, regular events, and proximity to cultural attractions, Piedmont Park serves as a beloved recreational hub and a cultural oasis.",
+            "price":"300",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Alliance Theatre",
+            "image":"/img/alliance.jpg",
+            "text":"Located at the Woodruff Arts Center, the theater offers a dynamic blend of world-class productions, educational programs, and community engagement initiatives. With its commitment to artistic excellence and social impact, the Alliance Theatre provides an enriching and immersive theater experience, making it a cornerstone of the city's vibrant performing arts scene.",
+            "price":"1200",
+            "duration":"5 Hrs"
+        }
+    ]
+}

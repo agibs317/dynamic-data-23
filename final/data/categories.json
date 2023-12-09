@@ -1,0 +1,15 @@
+{"categories":[
+    {
+        "name":"Foliage",
+        "url":"foliage",
+        "image":"/img/foliage.jpg"
+    },    {
+        "name":"Flowers",
+        "url":"flowers",
+        "image":"/img/flower.jpg"
+    },    {
+        "name":"Succulents",
+        "url":"succulents",
+        "image":"/img/succulent.jpg"
+    }
+]}

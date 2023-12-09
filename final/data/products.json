@@ -1,0 +1,509 @@
+{
+    "items":[
+        {
+            "id":1,
+            "category":"foliage",
+            "name":"Heartleaf Philodendron",
+            "price":24.99,
+            "main": "/img/foliage/heart1.jpg",
+            "images":[
+                {"src":"/img/foliage/heart2.jpg"},
+                {"src":"/img/foliage/heart3.jpg"},
+                {"src":"/img/foliage/heart4.jpg"},
+                {"src":"/img/foliage/heart5.jpg"}
+            ],
+            "description":"The Heartleaf Philodendron is a delightful trailing plant with heart-shaped leaves that graces any space with its simplicity and easy-going nature."
+        },
+        {
+            "id":2,
+            "category":"foliage",
+            "name":"Snake Plant",
+            "price":29.99,
+            "main": "/img/foliage/snake1.jpg",
+            "images":[
+                {"src":"/img/foliage/snake2.jpg"},
+                {"src":"/img/foliage/snake3.jpg"},
+                {"src":"/img/foliage/snake4.jpg"},
+                {"src":"/img/foliage/snake5.jpg"}
+            ],
+            "description":"The Snake Plant is a striking houseplant with sleek, upright leaves that add a touch of modern elegance to any space. Celebrated for its air-purifying abilities and low-maintenance nature, this architectural beauty is a perfect choice for both novice and experienced plant enthusiasts."
+        },
+        {
+            "id":3,
+            "category":"foliage",
+            "name":"Golden Pothos",
+            "price":36.99,
+            "main": "/img/foliage/gold1.jpg",
+            "images":[
+                {"src":"/img/foliage/gold2.jpg"},
+                {"src":"/img/foliage/gold3.jpg"},
+                {"src":"/img/foliage/gold4.jpg"},
+                {"src":"/img/foliage/gold5.jpg"}
+            ],
+            "description":"The Golden Pothos is a timeless and cascading beauty known for its heart-shaped leaves with variegated shades of green and gold."
+        },
+        {
+            "id":4,
+            "category":"foliage",
+            "name":"Monstera Deliciosa 'Swiss Cheese Plant'",
+            "price":39.99,
+            "main": "/img/foliage/monstera1.jpg",
+            "images":[
+                {"src":"/img/foliage/monstera2.jpg"},
+                {"src":"/img/foliage/monstera3.jpg"},
+                {"src":"/img/foliage/monstera4.jpg"},
+                {"src":"/img/foliage/monstera5.jpg"}
+            ],
+            "description":"Welcome the bold and distinctive Monstera Deliciosa plant into your space, featuring large, fenestrated leaves that resemble the iconic holes of Swiss cheese. With its tropical charm and easy-care nature, this eye-catching plant brings a touch of the jungle to your home or office."
+        },
+        {
+            "id":5,
+            "category":"foliage",
+            "name":"Calathea 'Peacock Plant'",
+            "price":39.99,
+            "main": "/img/foliage/calathea1.jpg",
+            "images":[
+                {"src":"/img/foliage/calathea2.jpg"},
+                {"src":"/img/foliage/calathea3jpg"},
+                {"src":"/img/foliage/calathea4.jpg"},
+                {"src":"/img/foliage/calathea5.jpg"}
+            ],
+            "description":"The Peacock Plant is an exotic wonder renowned for its stunning, iridescent foliage that mimics the vibrant colors of a peacock's tail. With its striking and unique appearance, this tropical beauty adds a touch of drama and elegance to any indoor space."
+        },
+        {
+            "id":6,
+            "category":"foliage",
+            "name":"Lucky Bamboo",
+            "price":22.99,
+            "main": "/img/foliage/bamboo1.jpg",
+            "images":[
+                {"src":"/img/foliage/bamboo1.jpg"},
+                {"src":"/img/foliage/bamboo3.jpg"},
+                {"src":"/img/foliage/bamboo4.jpg"},
+                {"src":"/imgfoliage/bamboo5.jpg"}
+            ],
+            "description":"The Lucky Bamboo is a symbol of good fortune and prosperity, with its slender green stalks and graceful, spiral growth. Ideal for both homes and offices."
+        },
+        {
+            "id":7,
+            "category":"foliage",
+            "name":"Peace Lily",
+            "price":49.99,
+            "main": "/img/foliage/peace1.jpg",
+            "images":[
+                {"src":"/img/foliage/peace2.jpg"},
+                {"src":"/img/foliage/peace3.jpg"},
+                {"src":"/img/foliage/peace4.jpg"},
+                {"src":"/img/foliage/peace5.jpg"}
+            ],
+            "description":"Bring tranquility to your home with the Peace Lily, a graceful plant featuring glossy, deep green leaves and iconic white blooms. Revered for its air-purifying qualities and elegant simplicity, the Peace Lily is a symbol of serenity, making it an ideal addition to any indoor space."
+        },
+        {
+            "id":8,
+            "category":"foliage",
+            "name":"Agloanema Chinese Evergreen",
+            "price":29.99,
+            "main": "/img/foliage/chino1.jpg",
+            "images":[
+                {"src":"/img/foliage/chino2.jpg"},
+                {"src":"/img/foliage/chino3.jpg"},
+                {"src":"/img/foliage/chino4.jpg"},
+                {"src":"/img/foliage/chino5.jpg"}
+            ],
+            "description":"Elevate your indoor sanctuary with the beauty of the Chinese Evergreen, a versatile and adaptable houseplant prized for its lush, variegated leaves, which effortlessly combines aesthetic appeal with practicality."
+        },
+        {
+            "id":9,
+            "category":"foliage",
+            "name":"Peperomia",
+            "price":32.99,
+            "main": "/img/foliage/peper1.jpg",
+            "images":[
+                {"src":"/img/foliage/peper2.jpg"},
+                {"src":"/img/foliage/peper3.jpg"},
+                {"src":"/img/foliage/peper4.jpg"},
+                {"src":"/img/foliage/peper5.jpg"}
+            ],
+            "description":"The Peperomia plant is a charming houseplant known for its compact size, attractive succulent-like leaves, and ease of care, with diverse varieties and decorative appeal."
+        },
+        {
+            "id":10,
+            "category":"foliage",
+            "name":"Dracaena",
+            "price":33.99,
+            "main": "/img/foliage/dracanea1.jpg",
+            "images":[
+                {"src":"/img/foliage/dracanea2.jpg"},
+                {"src":"/img/foliage/dracanea3.jpg"},
+                {"src":"/img/foliage/dracanea4.jpg"},
+                {"src":"/img/foliage/dracanea5.jpg"}
+            ],
+            "description":"Infuse your living space with the dramatic flair of the Dracaena plant, boasting tall, slender stems crowned with lush, arching foliage that adds a touch of sophistication to any room. "
+        },
+        {
+            "id":11,
+            "category":"foliage",
+            "name":"Wandering Jew Plant",
+            "price":27.99,
+            "main": "/img/foliage/jew1.jpg",
+            "images":[
+                {"src":"/img/foliage/jew2.jpg"},
+                {"src":"/img/foliage/jew3.jpg"},
+                {"src":"/img/foliage/jew4.jpg"},
+                {"src":"/img/foliage/jew5.jpg"}
+            ],
+            "description":"Embark on a journey of botanical beauty with the Wandering Jew plant, featuring cascading vines adorned with vibrant, variegated leaves, adding a touch of trailing elegance to any space."
+        },
+        {
+            "id":12,
+            "category":"foliage",
+            "name":"Rex Begonia",
+            "price":19.99,
+            "main": "/img/foliage/rex1.jpg",
+            "images":[
+                {"src":"/img/foliage/rex2.jpg"},
+                {"src":"/img/foliage/rex3.jpg"},
+                {"src":"/img/foliage/rex4.jpg"},
+                {"src":"/img/foliage/rex5.jpg"}
+            ],
+            "description":"Unveil the lush beauty of the Rex Begonia, a captivating houseplant renowned for its stunning, intricately patterned leaves that showcase an array of vibrant colors and unique textures. Elevate your indoor oasis with this eye-catching foliage, as the Rex Begonia effortlessly combines elegance with ease of care."
+        },
+        {
+            "id":13,
+            "category":"flowers",
+            "name":"Azalea",
+            "price":21.99,
+            "main": "/img/flowers/azalea1.jpg",
+            "images":[
+                {"src":"/img/flowers/azalea2.jpg"},
+                {"src":"/img/flowers/azalea3.jpg"},
+                {"src":"/img/flowers/azalea4.jpg"},
+                {"src":"/img/flowers/azalea5.jpg"}
+            ],
+            "description":"Enrich your garden with the vibrant charm of the Azalea plant, known for its prolific and colorful blossoms that paint the landscape in hues of pink, red, and white. A symbol of beauty and elegance, the Azalea adds a burst of springtime joy to your outdoor sanctuary"
+        },
+        {
+            "id":14,
+            "category":"flowers",
+            "name":"Amaryllis",
+            "price":18.99,
+            "main": "/img/flowers/amarylis1.jpg",
+            "images":[
+                {"src":"/img/flowers/amarylis2.jpg"},
+                {"src":"/img/flowers/amarylis3.jpg"},
+                {"src":"/img/flowers/amarylis4.jpg"},
+                {"src":"/img/flowers/amarylis5.jpg"}
+            ],
+            "description":"Experience the grandeur of the Amaryllis plant, a winter-blooming marvel that unfurls spectacular, trumpet-shaped flowers in a range of rich hues. Elevate your indoor garden with this showstopper, admired for its stunning blossoms and the promise of festive beauty during the holiday season."
+        },
+        {
+            "id":15,
+            "category":"flowers",
+            "name":"African Violet",
+            "price":14.99,
+            "main": "/img/flowers/african1.jpg",
+            "images":[
+                {"src":"/img/flowers/african2.jpg"},
+                {"src":"/img/flowers/african3.jpg"},
+                {"src":"/img/flowers/african4.jpg"},
+                {"src":"/img/flowers/african5.jpg"}
+            ],
+            "description":"Indulge in the enchanting beauty of the African Violet plant, renowned for its velvety leaves and delicate, vibrant flowers that bring a splash of color to any indoor setting. Loved for its compact size and ease of care, this perennial favorite promises to bloom joy in your home year-round."
+        },
+        {
+            "id":16,
+            "category":"flowers",
+            "name":"Calla Lily",
+            "price":62.99,
+            "main": "/img/flowers/calla1.jpg",
+            "images":[
+                {"src":"/img/flowers/calla2.jpg"},
+                {"src":"/img/flowers/calla3.jpg"},
+                {"src":"/img/flowers/calla4.jpg"},
+                {"src":"/img/flowers/calla5.jpg"}
+            ],
+            "description":"Elegance blooms with the Calla Lily plant, boasting gracefully arched stems and iconic trumpet-shaped flowers that add a touch of sophistication to any garden or floral arrangement."
+        },
+        {
+            "id":17,
+            "category":"flowers",
+            "name":"Crown of Thorns",
+            "price":21.99,
+            "main": "/img/flowers/crown1.jpg",
+            "images":[
+                {"src":"/img/flowers/crown2.jpg"},
+                {"src":"/img/flowers/crown3.jpg"},
+                {"src":"/img/flowers/crown4.jpg"},
+                {"src":"/img/flowers/crown5.jpg"}
+            ],
+            "description":"The Crown of Thorns plant is characterized by succulent stems adorned with clusters of vibrant, long-lasting flowers. With its intriguing name and drought-tolerant nature, this flower adds a touch of exotic allure to any arid-inspired garden."
+        },
+        {
+            "id":18,
+            "category":"flowers",
+            "name":"Geranium",
+            "price":29.99,
+            "main": "/img/flowers/geranium1.jpg",
+            "images":[
+                {"src":"/img/flowers/geranium2.jpg"},
+                {"src":"/img/flowers/geranium3.jpg"},
+                {"src":"/img/flowers/geranium4.jpg"},
+                {"src":"/img/flowers/geranium5.jpg"}
+            ],
+            "description":"Revitalize your garden with the timeless charm of the Geranium plant, celebrated for its vibrant, colorful blooms and aromatic foliage. "
+        },
+        {
+            "id":19,
+            "category":"flowers",
+            "name":"Flowering Maple",
+            "price":15.99,
+            "main": "/img/flowers/maple1.jpg",
+            "images":[
+                {"src":"/img/flowers/maple2.jpg"},
+                {"src":"/img/flowers/maple3.jpg"},
+                {"src":"/img/flowers/maple4.jpg"},
+                {"src":"/img/flowers/maple5.jpg"}
+            ],
+            "description":"The Flowering Maple showcases delicate, bell-shaped blooms and intricately lobed leaves. This charming plant, with its vibrant flowers and graceful foliage, is a perfect choice for those seeking a blend of beauty and easy care in their botanical collection."
+        },
+        {
+            "id":20,
+            "category":"flowers",
+            "name":"Bromeliad",
+            "price":27.99,
+            "main": "/img/flowers/bro1.jpg",
+            "images":[
+                {"src":"/img/flowers/bro2.jpg"},
+                {"src":"/img/flowers/bro3.jpg"},
+                {"src":"/img/flowers/bro4.jpg"},
+                {"src":"/img/flowers/bro5.jpg"}
+            ],
+            "description":"The Bromeliad is a vibrant tropical plant that steals the spotlight with its striking rosette and bold, colorful bracts."
+        },
+        {
+            "id":21,
+            "category":"flowers",
+            "name":"Wax Begonia",
+            "price":32.99,
+            "main": "/img/flowers/wax1.jpg",
+            "images":[
+                {"src":"/img/flowers/wax2.jpg"},
+                {"src":"/img/flowers/wax3.jpg"},
+                {"src":"/img/flowers/wax4.jpg"},
+                {"src":"/img/flowers/wax5.jpg"}
+            ],
+            "description":"The Wax Begonia is a versatile and resilient plant featuring glossy, waxy leaves and clusters of vibrant blooms, adding a burst of color to both indoor and outdoor spaces. With its easy care and year-round appeal, this begonia is a delightful choice for any plant enthusiast."
+        },
+        {
+            "id":22,
+            "category":"flowers",
+            "name":"Jasmine",
+            "price":23.99,
+            "main": "/img/flowers/jasmine1.jpg",
+            "images":[
+                {"src":"/img/flowers/jasmine2.jpg"},
+                {"src":"/img/flowers/jasmine3.jpg"},
+                {"src":"/img/flowers/jasmine4.jpg"},
+                {"src":"/img/flowers/jasmine5.jpg"}
+            ],
+            "description":"The Jasmine Plant is a timeless beauty known for its delicate white flowers that release a sweet and calming scent. Bring the essence of a blooming garden into your home with this elegant and aromatic addition to your plant collection."
+        },
+        {
+            "id":23,
+            "category":"flowers",
+            "name":"Lipstick Plant",
+            "price":30.99,
+            "main": "/img/flowers/lipstick1.jpg",
+            "images":[
+                {"src":"/img/flowers/lipstick2.jpg"},
+                {"src":"/img/flowers/lipstick3.jpg"},
+                {"src":"/img/flowers/lipstick4.jpg"},
+                {"src":"/img/flowers/lipstick5.jpg"}
+            ],
+            "description":"The Lipstick Plant showcases vibrant tubular flowers that resemble a tube of lipstick, adding a touch of tropical allure to any indoor garden. With its unique blooms and glossy foliage, this exotic beauty is sure to make a statement in your plant collection."
+        },
+        {
+            "id":24,
+            "category":"flowers",
+            "name":"Orchid",
+            "price":43.99,
+            "main": "/img/flowers/orchid1.jpg",
+            "images":[
+                {"src":"/img/flowers/orchid2.jpg"},
+                {"src":"/img/flowers/orchid3.jpg"},
+                {"src":"/img/flowers/orchid4.jpg"},
+                {"src":"/img/flowers/orchid5.jpg"}
+            ],
+            "description":"Indulge in the exquisite beauty of the Orchid, a symbol of grace and sophistication, with its intricate blossoms and slender, arching stems."
+        },
+        {
+            "id":25,
+            "category":"succulents",
+            "name":"Jade Plant",
+            "price":12.99,
+            "main": "/img/succulents/jade1.jpg",
+            "images":[
+                {"src":"/img/succulents/jade2.jpg"},
+                {"src":"/img/succulents/jade3.jpg"},
+                {"src":"/img/succulents/jade4.jpg"},
+                {"src":"/img/succulents/jade5.jpg"}
+            ],
+            "description":"The Jade Plant is a symbol of prosperity and resilience, featuring glossy, jade-green leaves that bring a touch of elegance to any space. Known for its easy care and positive energy, this classic succulent is a perfect choice for both seasoned plant enthusiasts and beginners alike."
+        },
+        {
+            "id":26,
+            "category":"succulents",
+            "name":"Panda Plant",
+            "price":10.99,
+            "main": "/img/succulents/panda1.jpg",
+            "images":[
+                {"src":"/img/succulents/panda2.jpg"},
+                {"src":"/img/succulents/panda3.jpg"},
+                {"src":"/img/succulents/panda4.jpg"},
+                {"src":"/img/succulents/panda5.jpg"}
+            ],
+            "description":"Introducing the Panda Plant, a charming succulent with velvety, silver-green leaves featuring distinctive brown spots, resembling the endearing panda's fur. With its unique appearance and low-maintenance nature, this delightful plant adds a touch of playfulness to any indoor garden."
+        },
+        {
+            "id":27,
+            "category":"succulents",
+            "name":"Bunny Ear Cactus",
+            "price":12.99,
+            "main": "/img/succulents/bunny1.jpg",
+            "images":[
+                {"src":"/img/succulents/bunny2.jpg"},
+                {"src":"/img/succulents/bunny3.jpg"},
+                {"src":"/img/succulents/bunny4.jpg"},
+                {"src":"/img/succulents/bunny5.jpg"}
+            ],
+            "description":"Embrace the whimsy of the Bunny Ear Cactus, a petite and adorable succulent resembling playful bunny ears, making it a delightful addition to any succulent collection. With its charming appearance and minimal care requirements, this small companion brings a touch of enchantment to your space."
+        },
+        {
+            "id":28,
+            "category":"succulents",
+            "name":"Christmas Cactus",
+            "price":13.99,
+            "main": "/img/succulents/xmas1.jpg",
+            "images":[
+                {"src":"/img/succulents/xmas2.jpg"},
+                {"src":"/img/succulents/xmas3.jpg"},
+                {"src":"/img/succulents/xmas4.jpg"},
+                {"src":"/img/succulents/xmas5.jpg"}
+            ],
+            "description":"Celebrate the season with the Christmas Cactus, a festive succulent adorned with cascading, colorful blooms that blossom just in time for the holidays. With its graceful appearance and ease of care, this charming plant brings joy and a touch of nature's beauty to your festive décor."
+        },
+        {
+            "id":29,
+            "category":"succulents",
+            "name":"Moon Cactus",
+            "price":8.99,
+            "main": "/img/succulents/moon1.jpg",
+            "images":[
+                {"src":"/img/succulents/moon2.jpg"},
+                {"src":"/img/succulents/moon3.jpg"},
+                {"src":"/img/succulents/moon4.jpg"},
+                {"src":"/img/succulents/moon5.jpg"}
+            ],
+            "description":"The whimsical Moon Cactus is a vibrant and unique succulent featuring brightly colored, globe-shaped tops. "
+        },
+        {
+            "id":30,
+            "category":"succulents",
+            "name":"Barrel Cactus",
+            "price":15.99,
+            "main": "/img/succulents/barrel1.jpg",
+            "images":[
+                {"src":"/img/succulents/barrel2.jpg"},
+                {"src":"/img/succulents/barrel3.jpg"},
+                {"src":"/img/succulents/barrel4.jpg"},
+                {"src":"/img/succulents/barrel5.jpg"}
+            ],
+            "description":"The Barrel Cactus is a distinctive desert dweller with a cylindrical form and striking ribbed patterns. Ideal for those seeking a touch of southwestern charm."
+        },
+        {
+            "id":31,
+            "category":"succulents",
+            "name":"Echeveria",
+            "price":6.99,
+            "main": "/img/succulents/echeveria1.jpg",
+            "images":[
+                {"src":"/img/succulents/echeveria2.jpg"},
+                {"src":"/img/succulents/echeveria3.jpg"},
+                {"src":"/img/succulents/echeveria4.jpg"},
+                {"src":"/img/succulents/echeveria5.jpg"}
+            ],
+            "description":"The Echeveria plant is an elegant addition to your plant collection, boasting rosettes of fleshy, vibrant leaves that form captivating, watercolor-like patterns. "
+        },
+        {
+            "id":32,
+            "category":"succulents",
+            "name":"Hoya Heart",
+            "price":29.99,
+            "main": "/img/succulents/hoya1.jpg",
+            "images":[
+                {"src":"/img/succulents/hoya2.jpg"},
+                {"src":"/img/succulents/hoya3.jpg"},
+                {"src":"/img/succulents/hoya4.jpg"},
+                {"src":"/img/succulents/hoya5.jpg"}
+            ],
+            "description":"Introducing the Hoya Heart Plant, a symbol of love with heart-shaped leaves that cascade gracefully, making it a delightful addition to any plant lover's collection. Embrace the charm of this unique succulent, known for its easy care and romantic aesthetics."
+        },
+        {
+            "id":33,
+            "category":"succulents",
+            "name":"Aloe Vera",
+            "price":17.99,
+            "main": "/img/succulents/aloe1.jpg",
+            "images":[
+                {"src":"/img/succulents/aloe2.jpg"},
+                {"src":"/img/succulents/aloe3.jpg"},
+                {"src":"/img/succulents/aloe4.jpg"},
+                {"src":"/img/succulents/aloe5.jpg"}
+            ],
+            "description":"Explore the healing wonders of the Aloe Vera plant, celebrated for its soothing gel and easy-care nature. This versatile succulent not only adds a touch of greenery to your space but also offers natural remedies for various skin ailments, making it a must-have for any home."
+        },
+        {
+            "id":34,
+            "category":"succulents",
+            "name":"Elephant Plant",
+            "price":8.99,
+            "main": "/img/succulents/elephant1.jpg",
+            "images":[
+                {"src":"/img/succulents/elephant2.jpg"},
+                {"src":"/img/succulents/elephant3.jpg"},
+                {"src":"/img/succulents/elephant4.jpg"},
+                {"src":"/img/succulents/elephant5.jpg"}
+            ],
+            "description":"Meet the Elephant Ear Plant, a botanical giant with striking, elephant ear-shaped leaves that bring a touch of tropical splendor to your living space. Known for its bold and lush foliage, this plant adds an exotic allure to any indoor or outdoor garden."
+        },
+        {
+            "id":35,
+            "category":"succulents",
+            "name":"ZZ Plant",
+            "price":10.99,
+            "main": "/img/succulents/zz1.jpg",
+            "images":[
+                {"src":"/img/succulents/zz2.jpg"},
+                {"src":"/img/succulents/zz3.jpg"},
+                {"src":"/img/succulents/zz4.jpg"},
+                {"src":"/img/succulents/zz5.jpg"}
+            ],
+            "description":"The ZZ Plant is a low-maintenance marvel renowned for its glossy, dark green foliage making it the perfect choice for beginners seeking an effortlessly stylish addition to their indoor spaces."
+        },
+        {
+            "id":36,
+            "category":"succulents",
+            "name":"Sempervivum",
+            "price":9.99,
+            "main": "/img/succulents/semper1.jpg",
+            "images":[
+                {"src":"/img/succulents/semper2.jpg"},
+                {"src":"/img/succulents/semper3.jpg"},
+                {"src":"/img/succulents/semper4.jpg"},
+                {"src":"/img/succulents/semper5.jpg"}
+            ],
+            "description":"A resilient and charming plant, the Sempervivum, commonly known as 'hen and chicks,' with its captivating rosette clusters that thrive in various environments, adding a touch of natural elegance to your indoor or outdoor garden."
+        }
+        
+    ]
+}

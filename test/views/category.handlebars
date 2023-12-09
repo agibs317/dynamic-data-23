@@ -1,0 +1,25 @@
+<div class="section-divider" id="about"></div>
+{{#each category}}
+<h1 class="primary-color-light delaGothicOne">{{this.name}}</h1>
+<p>{{this.headImage}}</p>
+{{/each}}
+
+
+{{#if products}}
+<div class="section-divider" id="gallery"></div>
+<div class="row">
+  {{#each product}}
+  <div class="col-4">
+    <a href="/item/{{this.id}}" class="gallery-img">
+  <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail">
+  <p>{{this.title}}</p>
+  <p>{{this.price}}</p>
+</a>
+</div>
+  {{/each}}
+</div>
+{{/if}}
+
+<footer class="primary-color-bg secondary-color-light">
+  Copyright 2023 - Andaiye Gibson
+</footer>

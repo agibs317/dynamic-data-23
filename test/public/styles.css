@@ -1,0 +1,62 @@
+/*body{
+    background-color: #cccccc;
+}*/
+
+.white-bg{
+    background-color: white;
+}
+
+.primary-color{
+    color: #FFF1E0;
+}
+
+.primary-color-light, nav .secondary-color-light:hover{
+    color: #FD8660;
+}
+
+.accordion-button:not(.collapsed){
+    color:#144733;
+    background-color: #FD8660;
+}
+
+.primary-color-bg{
+    background-color: white;
+}
+
+.primary-color-light-bg{
+    background-color: white;
+}
+
+.secondary-color{
+    color: #144733;
+}
+
+.secondary-color-light{
+    color: #339C5E;
+}
+
+.secondary-color-bg{
+    background-color: white;
+}
+
+.secondary-color-light-bg{
+    background-color: white;
+}
+
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio: 1/1;
+}
+
+footer{
+    padding: 3rem;
+}

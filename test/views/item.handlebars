@@ -1,0 +1,26 @@
+{{#each products}}
+<div>
+<img src="{{this.main}}" alt="{{this.name}}" class="rounded float-start" width="400px">
+<h3><strong>{{this.name}}</strong></h3>
+        <p>{{this.price}}</p>
+        <p>{{this.description}}</p>
+<form action="/cart" method="post">>
+<button type="submit">Add to Cart</button>
+</form>
+</div>
+
+<div>
+{{#each this.images}} 
+<img src="{{this.src}}" alt="{{this.name}}" class="img-thumbnail" width="100px">
+{{/each}}
+
+<h3>Similar Products</h3>
+<div class="row">
+  {{#each this.images}} 
+  <div class="col-3">
+  <img src="{{this.src}}" alt="{{this.name}}" class="img-thumbnail" width="200px" height="200px">
+    </div>
+    {{/each}}
+</div>
+</div>
+{{/each}}

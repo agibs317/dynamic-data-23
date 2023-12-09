@@ -1,0 +1,74 @@
+{
+    "title": "Downtown",
+    "description":"Welcome to Downtown Atlanta, the vibrant heart of Georgia's capital city, where history, culture, and modernity seamlessly blend to create an unforgettable experience for tourists. Nestled amidst the iconic skyline, this bustling district offers a diverse array of attractions, making it a must-visit destination for travelers.",
+    "slideshow": [
+        "/img/slides/downtown2.jpg",
+        "/img/slides/downtown1.jpg",
+        "/img/slides/downtown3.jpg"
+    ],
+
+    "services":[
+        {
+        "title":"Transportation",
+        "intro": "Atlanta, the capital of Georgia, boasts a diverse transportation system, including MARTA, a rapid transit system, and a network of highways connecting the city's sprawling urban and suburban areas. ",
+        "lists":["Marta",
+                "Bird",
+                "Bus Tours"],
+        "image":"/img/marta.jpg"
+        },
+        {
+        "title":"Atlanta Tours",
+        "intro": "Discover the soul of Atlanta with our meticulously curated tours, showcasing the city's iconic attractions, diverse neighborhoods, and rich cultural heritage.",
+        "lists":["A day in North Atlanta",
+                "A day in Downtown",
+                "A day in Midtown"],
+        "image":"/img/acity.jpg",
+        "show":"show"
+        }
+    ],
+
+    "packages":[
+        {
+            "title":"World of Coke",
+            "image":"/img/coke.jpg",
+            "text":"World of Coca-Cola is a captivating museum dedicated to the iconic soft drink, offering visitors an immersive journey through the history of Coca-Cola, interactive exhibits, and a chance to taste over 100 different beverages from around the world, making it a fizzy and flavorful adventure for enthusiasts of all ages.",
+            "price":"1500",
+            "duration":"2 Hrs"
+        },
+        {
+            "title":"Georgia Aquarium",
+            "image":"/img/aquarium.jpg",
+            "text":"Located in downtown Atlanta, is one of the largest aquariums in the world, home to a diverse range of marine life, including beluga whales, manta rays, and whale sharks, providing visitors with a mesmerizing and educational experience, making it a must-visit destination for aquatic enthusiasts and families",
+            "price":"500",
+            "duration":"3 Hrs"
+        },
+        {
+            "title":"Centennial Olympic Park",
+            "image":"/img/centennial.jpg",
+            "text":"A legacy of the 1996 Summer Olympics held in Atlanta, is a sprawling urban oasis in the heart of downtown, offering lush green spaces, interactive fountains, and regular events, providing both locals and tourists with a vibrant recreational area and a glimpse into the city's Olympic heritage.",
+            "price":"3300",
+            "duration":"1 Hr"
+        },
+        {
+            "title":"Skyview Atlanta",
+            "image":"/img/skyview.jpg",
+            "text":"SkyView Atlanta is a towering Ferris wheel located in downtown Atlanta, offering panoramic views of the city's skyline and iconic landmarks, providing visitors with a thrilling and unforgettable ride experience, making it a must-visit attraction for those seeking breathtaking views of Atlanta's urban landscape.",
+            "price":"100",
+            "duration":"1 Hr"
+        },
+        {
+            "title":"State Farm Arena",
+            "image":"/img/arena.jpg",
+            "text":"From thrilling basketball games featuring the NBA's Atlanta Hawks to high-profile concerts, live performances, and family-friendly shows, the arena offers diverse entertainment options for visitors. With modern amenities, comfortable seating, and excellent acoustics, State Farm Arena provides an immersive experience for sports enthusiasts, music lovers, and event-goers, making it a premier destination for entertainment in Atlanta.",
+            "price":"300",
+            "duration":"2 Hrs"
+        },
+        {
+            "title":"Mercedes Benz Stadium",
+            "image":"/img/benz.jpg",
+            "text":"As the home stadium of the NFL's Atlanta Falcons and MLS's Atlanta United FC, it hosts exhilarating football matches and soccer games. The stadium is also renowned for its architectural marvels, including the unique retractable roof and 360-degree Halo Board, the largest video board in the world. Additionally, Mercedes-Benz Stadium hosts major events such as concerts, college football games, and international soccer matches, providing visitors with diverse entertainment options. ",
+            "price":"1200",
+            "duration":"3 Hrs"
+        }
+    ]
+}

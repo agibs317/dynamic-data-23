@@ -1,0 +1,22 @@
+<div class="section-divider" id="about"></div>
+{{#each category}}
+<h1 class="primary-color-light playfair">{{this.name}}</h1>
+<img src="{{this.image}}" class="img-fluid" alt="{{this.title}}">
+{{/each}}
+
+<div class="section-divider" id="gallery"></div>
+<div class="row">
+  {{#each products}}
+  <div class="col-3">
+    <a href="/product/{{this.id}}" class="gallery-img">
+  <img src="{{this.main}}" alt="{{this.name}}" class="img-thumbnail">
+  <p>{{this.name}}</p>
+</a>
+<p>{{this.price}}</p>
+</div>
+  {{/each}}
+</div>
+
+<footer class="primary-color-bg secondary-color-light">
+  Copyright 2023 - Andaiye Gibson
+</footer>

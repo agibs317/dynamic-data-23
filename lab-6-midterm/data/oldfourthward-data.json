@@ -1,0 +1,74 @@
+{
+    "title": "Old Fourth Ward",
+    "description":"Join us as we uncover the hidden gems and local secrets of Atlanta Old Fourth Ward. Whether you're a history buff, a foodie, or simply looking for a unique travel experience, this neighborhood has something to offer everyone. Get ready to be inspired and plan your next adventure in this dynamic and culturally rich part of Atlanta!",
+    "slideshow": [
+        "/img/slides/fourth2.jpg",
+        "/img/slides/fourth1.jpg",
+        "/img/slides/fourth3.jpg"
+    ],
+
+    "services":[
+        {
+        "title":"Transportation",
+        "intro": "Atlanta, the capital of Georgia, boasts a diverse transportation system, including MARTA, a rapid transit system, and a network of highways connecting the city's sprawling urban and suburban areas. ",
+        "lists":["Marta",
+                "Bird",
+                "Bus Tours"],
+        "image":"/img/marta.jpg"
+        },
+        {
+        "title":"Atlanta Tours",
+        "intro": "Discover the soul of Atlanta with our meticulously curated tours, showcasing the city's iconic attractions, diverse neighborhoods, and rich cultural heritage.",
+        "lists":["A day in North Atlanta",
+                "A day in Downtown",
+                "A day in Midtown"],
+        "image":"/img/acity.jpg",
+        "show":"show"
+        }
+    ],
+
+    "packages":[
+        {
+            "title":"Little Five Points",
+            "image":"/img/five.jpg",
+            "text":"This artsy district is a hub for independent boutiques, vintage stores, and record shops, attracting music enthusiasts, artists, and creatives. With its colorful murals, alternative fashion, and vibrant nightlife, Little Five Points offers a one-of-a-kind experience.",
+            "price":"1500",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Atlanta Beltine",
+            "image":"/img/beltline.jpg",
+            "text":"This innovative project aims to connect neighborhoods, promote outdoor activities, and foster community engagement. With its scenic walking and biking paths, public art installations, and revitalized green spaces, the BeltLine has become a symbol of Atlanta's commitment to sustainable urban development.",
+            "price":"500",
+            "duration":"1 Day"
+        },
+        {
+            "title":"Ponce City Market",
+            "image":"/img/chair.jpg",
+            "text":"This trendy destination features a diverse array of retail stores, artisanal boutiques, and a gourmet food hall showcasing local and international cuisine. Visitors can also enjoy rooftop bars, a rooftop amusement park with panoramic city views, and cultural events.",
+            "price":"3300",
+            "duration":"4 Hrs"
+        },
+        {
+            "title":"Historic Fourth Ward Skatepark",
+            "image":"/img/skate.jpg",
+            "text":"Located in the Historic Fourth Ward Park, this expansive concrete skatepark offers a variety of ramps, bowls, and street-style obstacles, providing an ideal environment for skaters to practice their skills and tricks. Surrounded by scenic views and adjacent to the Atlanta BeltLine trail, the skatepark not only offers a thrilling experience for skaters but also provides a unique and dynamic recreational space within the city, drawing visitors from the local community and beyond.",
+            "price":"100",
+            "duration":"1 Hr"
+        },
+        {
+            "title":"Krog Street Tunnel",
+            "image":"/img/graffiti.jpg",
+            "text":" Connecting the neighborhoods of Inman Park and Cabbagetown, this pedestrian tunnel is adorned with colorful and ever-changing murals, tags, and artworks, creating a vibrant and visually stimulating experience for passersby. The tunnel has become a cultural landmark, reflecting the city's artistic spirit and serving as a showcase for urban creativity.",
+            "price":"300",
+            "duration":"3 Hrs"
+        },
+        {
+            "title":"King Historic District",
+            "image":"/img/MLK.jpg",
+            "text":"The Martin Luther King Jr. Historic District in Atlanta is a significant cultural and historical area honoring the life and legacy of the iconic civil rights leader, Dr. Martin Luther King Jr. It encompasses several sites, including the childhood home of Dr. King, the Ebenezer Baptist Church where he preached, and the King Center for Nonviolent Social Change, which houses exhibits and memorabilia related to the civil rights movement. ",
+            "price":"1200",
+            "duration":"4 Hrs"
+        }
+    ]
+}
