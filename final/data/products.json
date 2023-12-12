@@ -12,13 +12,7 @@
                 {"src":"/img/foliage/heart4.jpg"},
                 {"src":"/img/foliage/heart5.jpg"}
             ],
-            "description":"The Heartleaf Philodendron is a delightful trailing plant with heart-shaped leaves that graces any space with its simplicity and easy-going nature.",
-            "add":[
-                {"src":"/img/foliage/snake2.jpg"},
-                {"src":"/img/foliage/gold2.jpg"},
-                {"src":"/img/foliage/monstera2.jpg"},
-                {"src":"/img/foliage/calathea2.jpg"}
-            ]
+            "description":"The Heartleaf Philodendron is a delightful trailing plant with heart-shaped leaves that graces any space with its simplicity and easy-going nature."
         },
         {
             "id":2,
@@ -32,13 +26,7 @@
                 {"src":"/img/foliage/snake4.jpg"},
                 {"src":"/img/foliage/snake5.jpg"}
             ],
-            "description":"The Snake Plant is a striking houseplant with sleek, upright leaves that add a touch of modern elegance to any space. Celebrated for its air-purifying abilities and low-maintenance nature, this architectural beauty is a perfect choice for both novice and experienced plant enthusiasts.",
-            "add":[
-                {"src":"/img/foliage/bamboo2.jpg"},
-                {"src":"/img/foliage/gold2.jpg"},
-                {"src":"/img/foliage/monstera2.jpg"},
-                {"src":"/img/foliage/calathea2.jpg"}
-            ]
+            "description":"The Snake Plant is a striking houseplant with sleek, upright leaves that add a touch of modern elegance to any space. Celebrated for its air-purifying abilities and low-maintenance nature, this architectural beauty is a perfect choice for both novice and experienced plant enthusiasts."
         },
         {
             "id":3,
@@ -52,13 +40,7 @@
                 {"src":"/img/foliage/gold4.jpg"},
                 {"src":"/img/foliage/gold5.jpg"}
             ],
-            "description":"The Golden Pothos is a timeless and cascading beauty known for its heart-shaped leaves with variegated shades of green and gold.",
-            "add":[
-                {"src":"/img/foliage/bamboo2.jpg"},
-                {"src":"/img/foliage/peace2.jpg"},
-                {"src":"/img/foliage/monstera2.jpg"},
-                {"src":"/img/foliage/calathea2.jpg"}
-            ]
+            "description":"The Golden Pothos is a timeless and cascading beauty known for its heart-shaped leaves with variegated shades of green and gold."
         },
         {
             "id":4,
@@ -72,13 +54,7 @@
                 {"src":"/img/foliage/monstera4.jpg"},
                 {"src":"/img/foliage/monstera5.jpg"}
             ],
-            "description":"Welcome the bold and distinctive Monstera Deliciosa plant into your space, featuring large, fenestrated leaves that resemble the iconic holes of Swiss cheese. With its tropical charm and easy-care nature, this eye-catching plant brings a touch of the jungle to your home or office.",
-            "add":[
-                {"src":"/img/foliage/bamboo2.jpg"},
-                {"src":"/img/foliage/peace2.jpg"},
-                {"src":"/img/foliage/chino2.jpg"},
-                {"src":"/img/foliage/calathea2.jpg"}
-            ]
+            "description":"Welcome the bold and distinctive Monstera Deliciosa plant into your space, featuring large, fenestrated leaves that resemble the iconic holes of Swiss cheese. With its tropical charm and easy-care nature, this eye-catching plant brings a touch of the jungle to your home or office."
         },
         {
             "id":5,
@@ -92,13 +68,7 @@
                 {"src":"/img/foliage/calathea4.jpg"},
                 {"src":"/img/foliage/calathea5.jpg"}
             ],
-            "description":"The Peacock Plant is an exotic wonder renowned for its stunning, iridescent foliage that mimics the vibrant colors of a peacock's tail. With its striking and unique appearance, this tropical beauty adds a touch of drama and elegance to any indoor space.",
-            "add":[
-                {"src":"/img/foliage/bamboo2.jpg"},
-                {"src":"/img/foliage/peace2.jpg"},
-                {"src":"/img/foliage/chino2.jpg"},
-                {"src":"/img/foliage/peper2.jpg"}
-            ]
+            "description":"The Peacock Plant is an exotic wonder renowned for its stunning, iridescent foliage that mimics the vibrant colors of a peacock's tail. With its striking and unique appearance, this tropical beauty adds a touch of drama and elegance to any indoor space."
         },
         {
             "id":6,
@@ -112,13 +82,7 @@
                 {"src":"/img/foliage/bamboo4.jpg"},
                 {"src":"/imgfoliage/bamboo5.jpg"}
             ],
-            "description":"The Lucky Bamboo is a symbol of good fortune and prosperity, with its slender green stalks and graceful, spiral growth. Ideal for both homes and offices.",
-            "add":[
-                {"src":"/img/foliage/peace2.jpg"},
-                {"src":"/img/foliage/chino2.jpg"},
-                {"src":"/img/foliage/peper2.jpg"},
-                {"src":"/img/foliage/dracanea2.jpg"}
-            ]
+            "description":"The Lucky Bamboo is a symbol of good fortune and prosperity, with its slender green stalks and graceful, spiral growth. Ideal for both homes and offices."
         },
         {
             "id":7,
@@ -132,13 +96,7 @@
                 {"src":"/img/foliage/peace4.jpg"},
                 {"src":"/img/foliage/peace5.jpg"}
             ],
-            "description":"Bring tranquility to your home with the Peace Lily, a graceful plant featuring glossy, deep green leaves and iconic white blooms. Revered for its air-purifying qualities and elegant simplicity, the Peace Lily is a symbol of serenity, making it an ideal addition to any indoor space.",
-            "add":[
-                {"src":"/img/foliage/chino2.jpg"},
-                {"src":"/img/foliage/peper2.jpg"},
-                {"src":"/img/foliage/dracanea2.jpg"},
-                {"src":"/img/foliage/jew2.jpg"}
-            ]
+            "description":"Bring tranquility to your home with the Peace Lily, a graceful plant featuring glossy, deep green leaves and iconic white blooms. Revered for its air-purifying qualities and elegant simplicity, the Peace Lily is a symbol of serenity, making it an ideal addition to any indoor space."
         },
         {
             "id":8,
@@ -152,13 +110,7 @@
                 {"src":"/img/foliage/chino4.jpg"},
                 {"src":"/img/foliage/chino5.jpg"}
             ],
-            "description":"Elevate your indoor sanctuary with the beauty of the Chinese Evergreen, a versatile and adaptable houseplant prized for its lush, variegated leaves, which effortlessly combines aesthetic appeal with practicality.",
-            "add":[
-                {"src":"/img/foliage/peper2.jpg"},
-                {"src":"/img/foliage/dracanea2.jpg"},
-                {"src":"/img/foliage/jew2.jpg"},
-                {"src":"/img/foliage/rex2.jpg"}
-            ]
+            "description":"Elevate your indoor sanctuary with the beauty of the Chinese Evergreen, a versatile and adaptable houseplant prized for its lush, variegated leaves, which effortlessly combines aesthetic appeal with practicality."
         },
         {
             "id":9,
@@ -172,13 +124,7 @@
                 {"src":"/img/foliage/peper4.jpg"},
                 {"src":"/img/foliage/peper5.jpg"}
             ],
-            "description":"The Peperomia plant is a charming houseplant known for its compact size, attractive succulent-like leaves, and ease of care, with diverse varieties and decorative appeal.",
-            "add":[
-                {"src":"/img/foliage/dracanea2.jpg"},
-                {"src":"/img/foliage/jew2.jpg"},
-                {"src":"/img/foliage/rex2.jpg"},
-                {"src":"/img/foliage/heart2.jpg"}
-            ]
+            "description":"The Peperomia plant is a charming houseplant known for its compact size, attractive succulent-like leaves, and ease of care, with diverse varieties and decorative appeal."
         },
         {
             "id":10,
@@ -192,13 +138,7 @@
                 {"src":"/img/foliage/dracanea4.jpg"},
                 {"src":"/img/foliage/dracanea5.jpg"}
             ],
-            "description":"Infuse your living space with the dramatic flair of the Dracaena plant, boasting tall, slender stems crowned with lush, arching foliage that adds a touch of sophistication to any room. ",
-            "add":[
-                {"src":"/img/foliage/jew2.jpg"},
-                {"src":"/img/foliage/rex2.jpg"},
-                {"src":"/img/foliage/heart2.jpg"},
-                {"src":"/img/foliage/gold2.jpg"}
-            ]
+            "description":"Infuse your living space with the dramatic flair of the Dracaena plant, boasting tall, slender stems crowned with lush, arching foliage that adds a touch of sophistication to any room. "
         },
         {
             "id":11,
@@ -212,13 +152,7 @@
                 {"src":"/img/foliage/jew4.jpg"},
                 {"src":"/img/foliage/jew5.jpg"}
             ],
-            "description":"Embark on a journey of botanical beauty with the Wandering Jew plant, featuring cascading vines adorned with vibrant, variegated leaves, adding a touch of trailing elegance to any space.",
-            "add":[
-                {"src":"/img/foliage/rex2.jpg"},
-                {"src":"/img/foliage/heart2.jpg"},
-                {"src":"/img/foliage/monstera2.jpg"},
-                {"src":"/img/foliage/gold2.jpg"}
-            ]
+            "description":"Embark on a journey of botanical beauty with the Wandering Jew plant, featuring cascading vines adorned with vibrant, variegated leaves, adding a touch of trailing elegance to any space."
         },
         {
             "id":12,
@@ -232,13 +166,7 @@
                 {"src":"/img/foliage/rex4.jpg"},
                 {"src":"/img/foliage/rex5.jpg"}
             ],
-            "description":"Unveil the lush beauty of the Rex Begonia, a captivating houseplant renowned for its stunning, intricately patterned leaves that showcase an array of vibrant colors and unique textures. Elevate your indoor oasis with this eye-catching foliage, as the Rex Begonia effortlessly combines elegance with ease of care.",
-            "add":[
-                {"src":"/img/foliage/snake2.jpg"},
-                {"src":"/img/foliage/gold2.jpg"},
-                {"src":"/img/foliage/monstera2.jpg"},
-                {"src":"/img/foliage/heart2.jpg"}
-            ]
+            "description":"Unveil the lush beauty of the Rex Begonia, a captivating houseplant renowned for its stunning, intricately patterned leaves that showcase an array of vibrant colors and unique textures. Elevate your indoor oasis with this eye-catching foliage, as the Rex Begonia effortlessly combines elegance with ease of care."
         },
         {
             "id":13,

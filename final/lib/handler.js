@@ -84,13 +84,14 @@ exports.addToCartProcess = (req,res) => {
     //see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 
     console.log(req.body)
+    tempProduct = req.body
 
     //the push method adds items to an array
-    cart.products.push(req.body)
+    cart.products.push(tempProduct)
+    console.log(cart.products)
 
     //after the cart has been populated create a new json object
     //containg all the product information with the items in the cart
-    var tempProducts = {cartProducts}
 
     res.render("cart",{"cartProducts":cart.products})
 
@@ -104,8 +105,6 @@ exports.userList = (req,res) => {
 
 exports.user = (req,res) => { 
     console.log(eList)
-
-
 
     var userDetails = eList.users.filter((user)=>{ 
         return user.email == req.params.email
